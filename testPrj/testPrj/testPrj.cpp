@@ -4,6 +4,10 @@
 #include "stdafx.h"
 #include <iostream>
 
+void feature1()
+{
+	std::cout << "Hello world" << std::endl;
+}
 
 int main()
 {
